@@ -1,0 +1,8 @@
+Read me...............................
+
+Database Name: - bus_ticketing
+
+Admin Login:--
+
+Username:- admin123
+Password:-admin123@
